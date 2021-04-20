@@ -4,7 +4,7 @@ let a = prompt("Would you like apple?");
 
 // a.e
 
-for (let i = 0; i < 10; i++){
+for (let i = 0; i < 11; i++){
     if(a == "yes"){
         console.log("Wow we are same~");
         i++;
